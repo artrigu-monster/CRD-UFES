@@ -6,7 +6,6 @@ Este projeto tem como objetivo aplicar técnicas de **clusterização** e **redu
 
 - **Arthur Rodrigues Passos**
 - Especialização em Inteligência Artificial e Ciência de Dados – UFES
-- Linkedin: https://www.linkedin.com/in/arthur-rodrigues-passos/
 
 ---
 
@@ -20,6 +19,12 @@ Este projeto tem como objetivo aplicar técnicas de **clusterização** e **redu
   - Silhouette Score
   - Davies-Bouldin Index
   - Calinski-Harabasz Score
+
+---
+
+## 🔗 Acesse o Projeto no Google Colab
+
+[📎 Clique aqui para abrir o notebook no Google Colab](https://colab.research.google.com/drive/1vZ4QoR0T_HiQDofj8DdfetR9eluhOOge?usp=sharing)
 
 ---
 
@@ -96,5 +101,11 @@ Este projeto tem como objetivo aplicar técnicas de **clusterização** e **redu
 - Scikit-learn
 - Matplotlib, Seaborn
 
+---
 
+## 📬 Contato
 
+Sinta-se à vontade para entrar em contato ou se conectar:
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-rodrigues-passos)
+- Email: **arthur.r.passos@outlook.com**
