@@ -6,6 +6,7 @@ Este projeto tem como objetivo aplicar técnicas de **clusterização** e **redu
 
 - **Arthur Rodrigues Passos**
 - Especialização em Inteligência Artificial e Ciência de Dados – UFES
+- Linkedin: https://www.linkedin.com/in/arthur-rodrigues-passos/
 
 ---
 
@@ -95,7 +96,5 @@ Este projeto tem como objetivo aplicar técnicas de **clusterização** e **redu
 - Scikit-learn
 - Matplotlib, Seaborn
 
----
 
-## 📁 Estrutura do Projeto
 
